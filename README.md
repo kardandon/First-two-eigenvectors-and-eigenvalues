@@ -1,6 +1,7 @@
 #First two eigenvectors and eigenvalues
+Cpp program for detecting eigenvectors and eigenvalues of a square matrix
 
-This project is written in C++ and needs a C++ compiler.\
+This project is written in C++\
 In this project 3 arguements are needed in order:\
 A file contains n*n A matrix , toleration value and a file name or directory for output file.\
 This Project is used for finding first and second dominant eigen value and their corresponding eigenvectors\
