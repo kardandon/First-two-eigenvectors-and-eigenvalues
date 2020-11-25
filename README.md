@@ -1,4 +1,4 @@
-#First two eigenvectors and eigenvalues
+# First two eigenvectors and eigenvalues
 Cpp program for detecting eigenvectors and eigenvalues of a square matrix
 
 This project is written in C++\
